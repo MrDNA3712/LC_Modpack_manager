@@ -1,0 +1,31 @@
+[
+    {
+        "name": "BepInExPack",
+        "version": "5.4.2100",
+        "uuid4": "fa43c8b1-94dc-4df1-bd06-9fe607d4c7ff",
+        "files": [
+            "BepInEx/core/0Harmony.dll",
+            "BepInEx/core/0Harmony.xml",
+            "BepInEx/core/0Harmony20.dll",
+            "BepInEx/core/BepInEx.Harmony.dll",
+            "BepInEx/core/BepInEx.Harmony.xml",
+            "BepInEx/core/BepInEx.Preloader.dll",
+            "BepInEx/core/BepInEx.Preloader.xml",
+            "BepInEx/core/BepInEx.dll",
+            "BepInEx/core/BepInEx.xml",
+            "BepInEx/core/HarmonyXInterop.dll",
+            "BepInEx/core/Mono.Cecil.Mdb.dll",
+            "BepInEx/core/Mono.Cecil.Pdb.dll",
+            "BepInEx/core/Mono.Cecil.Rocks.dll",
+            "BepInEx/core/Mono.Cecil.dll",
+            "BepInEx/core/MonoMod.RuntimeDetour.dll",
+            "BepInEx/core/MonoMod.RuntimeDetour.xml",
+            "BepInEx/core/MonoMod.Utils.dll",
+            "BepInEx/core/MonoMod.Utils.xml",
+            "doorstop_config.ini",
+            "winhttp.dll"
+        ],
+        "url": "https://www.nexusmods.com/lethalcompany/mods/42",
+        "full_name": "BepInEx-BepInExPack"
+    }
+]
